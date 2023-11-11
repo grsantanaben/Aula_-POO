@@ -1,6 +1,6 @@
 # Aula Programação Orientada a Objetos🚀
 
-Nesta aula sobre programação orientada a objetos, estudadmos sobre classes, metodos herança, entre outros
+Nesta aula sobre programação orientada a objetos, estudamos sobre classes, metodos herança, entre outros
 # 🔌Como fazer funcionar na sua máquina:
 
 - Instale Python na sua máquina;
