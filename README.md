@@ -1,1 +1,19 @@
-# Aula_-POO
+# Aula Programação Orientada a Objetos🚀
+
+Nesta aula sobre programação orientada a objetos, estudadmos sobre classes, metodos herança, entre outros
+# 🔌Como fazer funcionar na sua máquina:
+
+- Instale Python na sua máquina;
+
+## 🛠️Tecnologias utilizadas:
+
+> VSCODE, REPLIT
+
+## Versões:
+
+> Python 3.10
+> 
+
+## Autores:
+
+> Gabriel Rodrigues
